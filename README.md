@@ -1,8 +1,7 @@
 # DTApython
-21 day Python course
+#21 day Python course
 
-Binder link for Jupyter
-vvvvvvvvvvvvvvvvvvvvvvv
+Binder link for Jupyter===>
 https://mybinder.org/v2/gh/raj4044/DTApython/master
 
 Each lecture's Python Notebook available immediately after the lecture.
